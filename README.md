@@ -1,16 +1,13 @@
-## Hi there 👋
+![ren-banner](https://github.com/user-attachments/assets/f600351d-d778-4254-9c94-31f3ba427813)
+# ren.
 
-<!--
-**randyharisna/randyharisna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Randy — a web developer focused on building clean, intuitive, and engaging websites.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Tech Stack
+
+- **Languages:** C++, CSS, HTML5, Java, Javascript, PHP, Python, Typescript
+- **Frameworks:** Bootstrap, Next.js, Tailwind CSS, Vue
+- **Libraries:** GSAP, React, Three.js
+- **Tools:** Figma, Git, Node.js
